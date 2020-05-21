@@ -1,1 +1,1 @@
-print('Tu moti ho')
+print('Tum pagal ho')
